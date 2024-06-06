@@ -14,3 +14,7 @@ No es necesario desarrollar las tareas, solo planificarlas.
 - Diego Gijón Fernández
 - Carlos Marín Martínez
 - Alberto Montero Solera
+
+  Imagen del tablero KanBan:
+
+![Captura de pantalla 2024-06-06 180551](https://github.com/Practica-8/RepositorioPractica8/assets/160471914/f33e4c39-4cf8-4a05-b50a-1965861df261)
